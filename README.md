@@ -1,6 +1,5 @@
-# TH_C_MISP
-TheHive, Cortex and MISP not finish integration with MISP
-
+# TheHive / Cortex / MISP
+TheHive, Cortex 
 
 chown -R 1000:1000 <path_to_elasticsearch>
 
